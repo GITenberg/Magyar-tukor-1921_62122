@@ -1,0 +1,37 @@
+_repo: Magyar-tukor-1921_62122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krúdy, Gyula
+    aliases:
+    - Krudy, Gyula
+    - Круди, Дюла
+    birthdate: 1878
+    deathdate: 1933
+    gutenberg_agent_id: '41227'
+    url: http://www.gutenberg.org/2009/agents/41227
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
+    - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62122'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Az égett emberhez -- Ének a végekről -- A peleskei jegyző útján --
+  A nemzet lelke északkeleten -- Tiszántúl -- Utazás Európa legszegényebb népei között
+  -- Debrecen -- Egy öreg ember elbeszélése -- Ábrándos városok -- Akiket többé nem
+  látunk -- Polónyi Géza kalapja -- Az ember, aki mindig vizitbe járt -- Balaton révészei
+  -- Vándorlegények -- Szemere de genere Huba -- Elveszett Miatyánk -- Esti olvasmányok
+  -- A történelmi osztály.
+title: Magyar tükör (1921)
+url: http://www.gutenberg.org/ebooks/62122
